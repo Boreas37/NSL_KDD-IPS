@@ -1,1 +1,1 @@
-IDS uygulamasının kullanılabilmesi için önce model_egitim.py dosyası ile bir model eğitilmelidir, daha sonra modeli ve ids.py dosyasını aynı dizine koyarak network trafiğinizi analiz etmeye başlayabilirsiniz.
+IDS uygulamasının kullanılabilmesi için önce model_egitim.py dosyası ile bir model eğitilmelidir, daha sonra modeli ve ids.py dosyasını aynı dizine koyarak network trafiğinizi analiz etmeye başlayabilirsiniz. Otomatik IP adresi engelleme özelliği yalnızca IDS sistemi root yetkisi verilerek Linux sistemlerde çalıştırılabilir.
