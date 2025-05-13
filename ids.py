@@ -1,10 +1,9 @@
 #!/usr/bin/env python3
 """
-capture_and_detect.py
+ids.py
 
-Bu betik, canlı ağ trafiğini izleyip NSL-KDD modeliyle analiz eder.
+Bu kod, canlı ağ trafiğini izleyip NSL-KDD modeliyle analiz eder.
 Saldırı tespitinde, paketin IP katmanı mevcutsa iptables komutuyla IP'yi engeller.
-Normal trafik için sürekli mesaj yazdırmak yerine belirli aralıklarla özet bilgi sunar.
 """
 
 import pickle            # Model dosyasını yüklemek için.
